@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1440px" height="171px" viewBox="0 0 1440 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>Top</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Proofs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Marketplace-Home_Laptop" transform="translate(0.000000, -1881.000000)" fill="#F5F4F1">
-            <g id="component/divider/leaf-3/1440px" transform="translate(0.000000, 1881.000000)">
-                <path d="M1440,137.192698 C1370.393,128.068242 1305.223,118.399253 1247.274,108.21989 C792.952,28.5411516 355.71,-30.4905176 5.03,16.9723228 C3.349,17.1993793 1.672,17.4274405 0,17.6534923 L0,171 L1440,171 L1440,137.192698 Z" id="Top"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="171" version="1.1" viewBox="0 0 1440 171"><title>Top</title><desc>Created with Sketch.</desc><g id="Proofs" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Marketplace-Home_Laptop" fill="#F5F4F1" transform="translate(0.000000, -1881.000000)"><g id="component/divider/leaf-3/1440px" transform="translate(0.000000, 1881.000000)"><path id="Top" d="M1440,137.192698 C1370.393,128.068242 1305.223,118.399253 1247.274,108.21989 C792.952,28.5411516 355.71,-30.4905176 5.03,16.9723228 C3.349,17.1993793 1.672,17.4274405 0,17.6534923 L0,171 L1440,171 L1440,137.192698 Z"/></g></g></g></svg>
