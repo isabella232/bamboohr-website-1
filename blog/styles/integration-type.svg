@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>Integration Type</title>
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="integration-type" transform="translate(1.000000, 1.000000)" stroke="#73C41D" stroke-width="2">
-            <polyline transform="translate(27.000000, 24.000000) rotate(-180.000000) translate(-27.000000, -24.000000) " points="33 14 21 23.9481113 33 34"></polyline>
-            <path d="M30.8476563,24 L0,24 C0,37.254834 10.745166,48 24,48 C37.254834,48 48,37.254834 48,24 C48,10.745166 37.254834,0 24,0 C15.790569,0 8.54384427,4.12183552 4.21644432,10.408888 C2.86309638,12.3750963 1.79527551,14.5530755 1.07283022,16.882977"></path>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" version="1.1" viewBox="0 0 50 50"><title>Integration Type</title><g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="integration-type" stroke="#73C41D" stroke-width="2" transform="translate(1.000000, 1.000000)"><polyline points="33 14 21 23.948 33 34" transform="translate(27.000000, 24.000000) rotate(-180.000000) translate(-27.000000, -24.000000)"/><path d="M30.8476563,24 L0,24 C0,37.254834 10.745166,48 24,48 C37.254834,48 48,37.254834 48,24 C48,10.745166 37.254834,0 24,0 C15.790569,0 8.54384427,4.12183552 4.21644432,10.408888 C2.86309638,12.3750963 1.79527551,14.5530755 1.07283022,16.882977"/></g></g></svg>
